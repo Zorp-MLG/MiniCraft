@@ -20,6 +20,7 @@ PCB manufacturing: 27.40 dollars (38.40 USD including shipping. im guessing 10 d
 
 screws and smaller stuff: 5 dollars (probably included in the screen shipping)
 
+TOTAL: 51.4 - 86.4 USD
 
 # Schematic
 
