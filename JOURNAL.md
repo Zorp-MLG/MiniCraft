@@ -10,7 +10,24 @@ created_at: "2026-09-21"
 I made the schematic with the xiao esp32 s3, 1.8 inch spi tft screen and an button.
 I made the repo lastly.
 
-<img width="604" height="649" alt="image" src="https://github.com/user-attachments/assets/b8a5672b-440a-49c4-8610-7cf6ad6837df" />
+After I was done with the PCB and everything, I put silkscreen on the pcb. I put an picture of an creeper
+and then the logo and name of Mojang. 
+
+the schematic was pretty easy. i connected
+4x simple leds
+1x xiao esp32 s3
+1x display
+1x button
+and that was it.
+
+Im still learning pcb design (and hardware in general) so For the wires on the pcb i used autoroute.
+I tried to route it but i gave up : sob:
+
+I picked the esp32 s3 because it had wireless features like wifi and stuff, which would be pretty important for the server.
+
+
+
+<img width="611" height="664" alt="image" src="https://github.com/user-attachments/assets/b0d4818c-5833-462d-be25-8b8f55d4e10c" />
 
 <img width="564" height="346" alt="image" src="https://github.com/user-attachments/assets/b95453eb-bf1d-4039-947b-2270d38a3658" />
 
