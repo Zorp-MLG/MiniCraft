@@ -20,8 +20,15 @@ PCB manufacturing: 27.40 dollars (38.40 USD including shipping. im guessing 10 d
 
 screws and smaller stuff: 5 dollars (probably included in the screen shipping)
 
-TOTAL: 51.4 - 86.4 USD
 
 # Schematic
 
 <img width="602" height="394" alt="image" src="https://github.com/user-attachments/assets/dc4fad33-6147-439e-8287-2e7ac2a1a8c7" />
+
+# What this is for
+
+Its a simple Minecraft server. I saw a video of someone making a minecraft server on an esp32 and it seemed really cool.
+Im probably going to use it for me and my brother to play Minecraft or other servers that can run on it.
+
+
+
