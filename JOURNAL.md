@@ -25,7 +25,7 @@ I tried to route it but i gave up : sob:
 
 I picked the esp32 s3 because it had wireless features like wifi and stuff, which would be pretty important for the server.
 
-
+I picked an 1.8 inch tft screen so i was able to display infomation about the server.
 
 <img width="611" height="664" alt="image" src="https://github.com/user-attachments/assets/b0d4818c-5833-462d-be25-8b8f55d4e10c" />
 
