@@ -30,5 +30,15 @@ screws and smaller stuff: 5 dollars (probably included in the screen shipping)
 Its a simple Minecraft server. I saw a video of someone making a minecraft server on an esp32 and it seemed really cool.
 Im probably going to use it for me and my brother to play Minecraft or other servers that can run on it.
 
+# How this is going to work
+
+1. Soldering everything first
+2. Download macerun
+3. config macerun
+4. flash esp32
+5. make or download software for the screen
+6. finished
+
+
 
 
